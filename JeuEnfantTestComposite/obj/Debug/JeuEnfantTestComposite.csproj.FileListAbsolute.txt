@@ -1,0 +1,30 @@
+C:\Users\Mister P\Desktop\TpHiver\Patron_Conception\JeuEnfantTestComposite\JeuEnfantTestComposite\bin\Debug\JeuEnfantTestComposite.exe.config
+C:\Users\Mister P\Desktop\TpHiver\Patron_Conception\JeuEnfantTestComposite\JeuEnfantTestComposite\bin\Debug\JeuEnfantTestComposite.exe
+C:\Users\Mister P\Desktop\TpHiver\Patron_Conception\JeuEnfantTestComposite\JeuEnfantTestComposite\bin\Debug\JeuEnfantTestComposite.pdb
+C:\Users\Mister P\Desktop\TpHiver\Patron_Conception\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.csprojAssemblyReference.cache
+C:\Users\Mister P\Desktop\TpHiver\Patron_Conception\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.Form1.resources
+C:\Users\Mister P\Desktop\TpHiver\Patron_Conception\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.Properties.Resources.resources
+C:\Users\Mister P\Desktop\TpHiver\Patron_Conception\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.csproj.GenerateResource.cache
+C:\Users\Mister P\Desktop\TpHiver\Patron_Conception\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.csproj.CoreCompileInputs.cache
+C:\Users\Mister P\Desktop\TpHiver\Patron_Conception\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.exe
+C:\Users\Mister P\Desktop\TpHiver\Patron_Conception\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.pdb
+F:\Disk_NewH\DocSchool\S1\JeuEnfantTestComposite\JeuEnfantTestComposite\bin\Debug\JeuEnfantTestComposite.exe.config
+F:\Disk_NewH\DocSchool\S1\JeuEnfantTestComposite\JeuEnfantTestComposite\bin\Debug\JeuEnfantTestComposite.exe
+F:\Disk_NewH\DocSchool\S1\JeuEnfantTestComposite\JeuEnfantTestComposite\bin\Debug\JeuEnfantTestComposite.pdb
+F:\Disk_NewH\DocSchool\S1\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.csprojAssemblyReference.cache
+F:\Disk_NewH\DocSchool\S1\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.Form1.resources
+F:\Disk_NewH\DocSchool\S1\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.Properties.Resources.resources
+F:\Disk_NewH\DocSchool\S1\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.csproj.GenerateResource.cache
+F:\Disk_NewH\DocSchool\S1\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.csproj.CoreCompileInputs.cache
+F:\Disk_NewH\DocSchool\S1\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.exe
+F:\Disk_NewH\DocSchool\S1\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.pdb
+C:\Users\bintou\Desktop\JeuEnfantTestComposite\JeuEnfantTestComposite\bin\Debug\JeuEnfantTestComposite.exe.config
+C:\Users\bintou\Desktop\JeuEnfantTestComposite\JeuEnfantTestComposite\bin\Debug\JeuEnfantTestComposite.exe
+C:\Users\bintou\Desktop\JeuEnfantTestComposite\JeuEnfantTestComposite\bin\Debug\JeuEnfantTestComposite.pdb
+C:\Users\bintou\Desktop\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.csproj.AssemblyReference.cache
+C:\Users\bintou\Desktop\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.Form1.resources
+C:\Users\bintou\Desktop\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.Properties.Resources.resources
+C:\Users\bintou\Desktop\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.csproj.GenerateResource.cache
+C:\Users\bintou\Desktop\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.csproj.CoreCompileInputs.cache
+C:\Users\bintou\Desktop\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.exe
+C:\Users\bintou\Desktop\JeuEnfantTestComposite\JeuEnfantTestComposite\obj\Debug\JeuEnfantTestComposite.pdb
